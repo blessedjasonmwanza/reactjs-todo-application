@@ -89,6 +89,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Environment Prerequisites
 - Internet connection
+- NodeJS
 - Web Browser
 - Code editor: _[Vscode](https://code.visualstudio.com/)_ or _[Sublime Text](https://www.sublimetext.com/)_
 
