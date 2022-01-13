@@ -3,7 +3,19 @@
 # REACT TODO List
 
 > An advanced Todo List web application built with pure ReactJS, babel, HTML & CSS 
+# Preview 
 
+ > 👀 Here is a sneak peak of how the project looks
+
+![Math Magicians Preview](./reactjs-todo-list.png)
+## Built With
+
+- ReactJS
+- Babel
+- HTML
+- CSS
+- JS
+- NPM Webpacks
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
