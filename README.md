@@ -1,3 +1,21 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# REACT TODO List
+
+> An advanced Todo List web application built with pure ReactJS, babel, HTML & CSS 
+# Preview 
+
+ > 👀 Here is a sneak peak of how the project looks
+
+![Math Magicians Preview](./reactjs-todo-list.png)
+## Built With
+
+- ReactJS
+- Babel
+- HTML
+- CSS
+- JS
+- NPM Webpacks
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +86,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Environment Prerequisites
+- Internet connection
+- NodeJS
+- Web Browser
+- Code editor: _[Vscode](https://code.visualstudio.com/)_ or _[Sublime Text](https://www.sublimetext.com/)_
+
+<hr>
+
+## 👤 Author : Blessed Jason Mwanza
+
+- GitHub: [@blessedjasonmwanza](https://github.com/blessedjasonmwanza)
+- Twitter: [@mwanzabj](https://twitter.com/mwanzabj)
+- LinkedIn: [Blessedjasonmwanza](https://linkedin.com/in/blessedjasonmwanza)
+
+<hr>
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Please 🙏 Please 🙏... Give a ⭐️ if you like this project!
